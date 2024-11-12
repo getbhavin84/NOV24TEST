@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5060" started-at="2024-11-12T09:24:27Z" finished-at="2024-11-12T09:24:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5060" started-at="2024-11-12T09:24:27Z" finished-at="2024-11-12T09:24:32Z">
+      <class name="TESTGIT.TESTGIT.UtilTest">
+        <test-method status="PASS" signature="utilweb()[pri:0, instance:TESTGIT.TESTGIT.UtilTest@1b604f19]" name="utilweb" duration-ms="5046" started-at="2024-11-12T14:54:27Z" finished-at="2024-11-12T14:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utilweb -->
+      </class> <!-- TESTGIT.TESTGIT.UtilTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
